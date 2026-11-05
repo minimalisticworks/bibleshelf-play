@@ -1,0 +1,15 @@
+{
+  "name": "Bible Shelf",
+  "short_name": "Bible Shelf",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6efe1",
+  "theme_color": "#6e4724",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+  ]
+}
